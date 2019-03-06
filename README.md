@@ -1,3 +1,3 @@
-# LPOO2_SistemaBancarioComMVC
+# LPOO2_BankSysMVC
 
 Sistema bancário com MVC
